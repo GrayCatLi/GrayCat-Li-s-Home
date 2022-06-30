@@ -14,11 +14,11 @@ export default siteConfig({
   author: 'GrayCat Li',
 
   // open graph metadata (optional)
-  description: 'Example Next.js Notion Starter Kit Site',
+  description: '',
 
   // social usernames (optional)
   twitter: '',
-  github: '',
+  github: 'https://github.com/GrayCatLi',
   linkedin: '',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
